@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139330660665",
+    "project_id": "matching-game-68add",
+    "storage_bucket": "matching-game-68add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139330660665:android:20235211c2a98a13e2e0e8",
+        "android_client_info": {
+          "package_name": "com.example.matching_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2Yt32UEcsLA-FYjS1BOrQ2AC45R5Gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
