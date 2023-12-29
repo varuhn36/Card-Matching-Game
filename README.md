@@ -9,7 +9,7 @@ You have 3 difficulties to choose from for your game: Easy(4x2), Medium(6x3), an
 
 # Custom Games
 
-You can also make your own custom games, by clicking the 3 dots menu in the top right corner and creating a new game: 
+You can also make your own custom games, by clicking the 3 dots menu in the top right corner and creating a new game. Players can then search for the game from the same menu and play it: 
 
 ![Menu](https://github.com/varuhn36/Card-Matching-Game/blob/main/Images/Options%20Menu.png) ![Sample Game Creation](https://github.com/varuhn36/Card-Matching-Game/blob/main/Images/Sample%20Custom%20Game%20Creation.png) ![Custom Game Won](https://github.com/varuhn36/Card-Matching-Game/blob/main/Images/Custom%20Game%20Played%20and%20Won.png)
 
