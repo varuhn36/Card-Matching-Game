@@ -17,6 +17,6 @@ You can also make your own custom games, by clicking the 3 dots menu in the top 
 - Kotlin
 - Android Studio
 - Firebase Storage to store images uploaded by users
-- Firebase Cloud Firestore to allow users to upload their games and online for other users to play
+- Firebase Cloud Firestore to allow users to upload their games online for other users to play
 
 
